@@ -262,3 +262,9 @@ i {
     }
 
 }
+
+@media(max-width: 1200px) {
+    .card {
+        margin-bottom: 100px;
+    }
+}
