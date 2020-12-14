@@ -250,6 +250,11 @@ i {
     .side-content > h2,
     .social-links {
         margin-top: 25px;
-}
+    }
+
+    .mb-3 {
+        margin: 0 100px;
+        border: 2px solid red;
+    }
 
 }
